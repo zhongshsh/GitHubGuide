@@ -9,7 +9,7 @@
 ```shell
 
 git init
-git add README.md
+git add .
 git commit -m "comment"
 git branch -M master   # main是支名
 git remote add origin https://github.com/zhongshsh/GitHubGuide.git   # 增加远程节点
