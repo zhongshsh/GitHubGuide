@@ -25,3 +25,9 @@ git push -u origin master    # 将文件上传
 git remote -v   # 查看连接到哪个远程库
 
 ```
+
+## 去除.idea
+
+```shell
+git rm -r --cached .idea
+```
